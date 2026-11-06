@@ -1,7 +1,7 @@
 # RELATORIO_ML — CitizenTech: alerta de chuva forte em São Paulo
 
-**Grupo:** Guilherme Linard (RM 555768), Lucas, Ali e Luquinha — Turma 3ESPZ — FIAP
-**Repositório:** [colar link do GitHub] · **Vídeo:** [colar link do YouTube não listado]
+**Grupo:** Guilherme Linard (RM 555768), Lucas Vasquez (RM 555159), Ali Andrea (RM 558052) e  — Turma 3ESPZ — FIAP
+**Repositório:** [colar link do GitHub] · **Vídeo:** [https://youtu.be/egsOr_ZHbvY]
 
 ## 1. Problema e dados reais
 
